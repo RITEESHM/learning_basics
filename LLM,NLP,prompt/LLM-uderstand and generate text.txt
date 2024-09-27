@@ -1,0 +1,17 @@
+LLM-uderstand and generate text 
+MLM(masked)-predict next word
+NLP-interact with human
+terms-label,label space,label distribution
+sentiment analysis-determine emotion by words
+verbalizer
+reinforccement learning from human feedback
+
+
+
+parts of prompt:
+role prompting
+few shot prompting
+chain of thought prompting
+least to most prompting
+dual prompt approach
+combining techniques
